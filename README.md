@@ -1,1 +1,0 @@
-# Mining-Clicker-Simulator
